@@ -1,0 +1,23 @@
+body {
+    padding: 50px 100px
+  }
+  h1 {
+    text-align: center;
+    background-color: rgb(192, 6, 192);
+    color: white;
+    padding: 10px;
+    margin: 0px;
+  }
+  #text {
+    width: 99%;
+    border: 1px solid rgb(192, 6, 192);;
+    font-size: 20px;
+  }
+  p {
+    text-align: center;
+    color: white;
+    background-color:rgb(192, 6, 192);;
+    font-size: 25px;
+    margin: 0;
+    padding: 8px;
+  }
